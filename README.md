@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hostel DBMS — Admin UI (Presentation-III)
 
 A simple web app that connects to your `hostel_dbms` MySQL database and lets you
@@ -108,3 +109,7 @@ hostel-dbms-webapp/
 - Foreign-key fields (e.g. Student on Fee_Payment) render as a dropdown
   populated by fetching the referenced table and showing its primary key plus
   a readable label.
+=======
+# DBMS-Course-Project
+Implementing a Database Management System for Hostel Accommodation and Student Services management System
+>>>>>>> ce0d0b9195bd5cb42d016d62bb3e2c9d77f4fdbd
