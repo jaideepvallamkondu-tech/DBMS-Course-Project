@@ -1,0 +1,18 @@
+{
+  "name": "hostel-dbms-webapp",
+  "version": "1.0.0",
+  "description": "Presentation-III UI for the Hostel Accommodation & Student Services DBMS project (insert, delete, view records via MySQL)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.3",
+    "mysql2": "^3.24.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
